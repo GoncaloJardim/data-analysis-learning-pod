@@ -1,7 +1,7 @@
 # Data Visualization Learning Pod
 
 
-Welcome to DareData's Data Visualization Foundations Course 🎉
+Welcome to DareData's Data Visualization Learning Pod 🎉
 
 This course is designed to teach how to improve your capabilities in narrating your data through visualization. In this introduction, you'll learn:
 
@@ -66,10 +66,12 @@ In order to help mentors in tracking the progress of their groups, you may find 
 ## Pre-requisites
 In order to make the best use out of this learning path, you should know:
 
-- Software: Jupyter Notebook, an IDE and a visualization software installed (Tableau Public Desktop, Power BI Desktop, Google Data Studio)
+- Jupyter Notebook
+- Work with an IDE (VS Code, PyCharm, Spyder, or other)
+- Install a Business Intelligence software (Tableau Public Desktop or Power BI Desktop)
 - Basic / Intermediary Python: some knowledge on EDA and data manipulation libraries such as pandas, matplotlib, seaborn and/or plotly and altair.
 - Basic Git: add, commit, checkout, merge, and rebase.
-- Willingness to learn a visualization tool (
+
 
 ## Suggested learning calendar
 > **Note**: This is just a suggestion. Groups are encouraged to set their own deadlines with their mentors.
