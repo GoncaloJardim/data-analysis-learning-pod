@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "data-viz-learning-pod-daredata"
+version = "0.1.0"
+description = ""
+authors = ["GoncaloJardim <goncalodajardim@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_viz_learning_pod_daredata"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.3"
+numpy = "^1.24.2"
+altair = "^4.2.2"
+ipykernel = "^6.21.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

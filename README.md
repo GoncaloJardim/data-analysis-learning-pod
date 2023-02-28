@@ -78,41 +78,45 @@ Week 01 _(~2.5 hours)_
 
 - Intro to Visualization : Initial concepts and demand for visualization
 - A tour through visualization techniques 
+- Visualization with matplotlib and seaborn
 
 Week 02 _(~2.5 hours)_
 
-- Visualization in EDA
+- Visualization with Altair
 
-Week 03 _(~1.5 hours)_
+Week 03 _(~2.5 hours)_
+
+- EDA
+
+Week 04 _(~2.5 hours)_
 
 - Assignment #1
 
-Week 04 _(~2 hours)_
+Week 05 _(~2 hours)_
 
 - Intro to visualization software
 - Datatypes, ERD, date tables and Calculation Fields/ DAX
-
-Week 05 _(~1.5 hours)_
-
-- Data Visualization exercises
 - Filters, Hovers, Tooltips, Colouring, Maps
+
+Week 06 _(~2.5 hours)_
+
 - Assignment #2
 
-Week 06 _(~3 hours)_
+Week 07 _(~2 hours)_
 - Intro to Dashboarding
 - Intro to Stories, multiple dashboards
 
-Week 07 _(~2 hours)_
+Week 08 _(~2 hours)_
 
 - Assignment #3
 
-Week 08 _(~1.5 hours)_
+Week 09 _(~1.5 hours)_
 
 - Publish and Service Configuration
 - Presentation to stakeholders
 - Impact of dashboards
 
-Week 09 (~2.5 hours)
+Week 10 (~2.5 hours)
 
 - Assignment #4
 
