@@ -1,0 +1,9 @@
+# Matplotlib
+
+Matplotlib is a popular Python package used for creating data visualizations. It provides a variety of tools for creating different types of plots, including line plots, scatter plots, bar charts, and histograms, among others. Matplotlib is not only flexible and easy to use, but it is also highly customizable, making it a go-to tool for data visualization in various industries, including finance, engineering, and scientific research.
+
+One of the key principles of plotting with Matplotlib is choosing the appropriate type of plot for the data being analyzed. For example, line plots are commonly used for time series data, while scatter plots are ideal for showing the relationship between two variables. Another essential principle is labeling the axes, titles, and legends, making it easy for viewers to interpret the visualization. Matplotlib also allows users to customize their plots by adjusting colors, markers, and line styles, among other features. Additionally, Matplotlib has an extensive documentation library that provides users with detailed examples and instructions on how to create various types of visualizations.
+
+Overall, Matplotlib is a powerful and versatile tool for creating data visualizations in Python. Its simplicity, flexibility, and customizability make it an essential package for anyone interested in data visualization or looking to improve their data visualization skills. 
+
+In the majority of your cases, you'll use matplotlib mostly as a tool in exploratory data analysis, since to present insights you'll learn other packages or business intelligence tools that are better looking and make it easier to present insights. With that said, it's more important in this stage that you know how to plot the types of graphs you desire rather than focusing to make all charts super pretty, you'll have time to focus on that later on this course, trust us 😄 
